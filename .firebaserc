@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "prod": "versionfinder-be",
+    "default": "versionfinder-be"
+  }
+}
